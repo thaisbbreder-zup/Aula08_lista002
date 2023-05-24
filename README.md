@@ -1,11 +1,11 @@
 <h1> Aula 08: Lista 002 </h1>
 
-## Exercício 01 
+# Exercício 01 
 Faça um programa que mostre a mensagem "Alô mundo" na tela.
 
 <img width="317" alt="image" src="https://github.com/thaisbreder/Aula08_lista002/assets/133882082/f3201cf2-def8-4d1f-9062-423d4aaac51f">
 
-## Exercício 02  
+# Exercício 02  
 Faça um programa que receba 4 notas bimestrais e mostre a média aritmética.
  
 <img width="505" alt="image" src="https://github.com/thaisbreder/Aula08_lista002/assets/133882082/e7789071-640d-4e9c-9297-3686d51e3aa4">
@@ -37,3 +37,7 @@ Faça um Programa que receba o quanto você ganha por hora e o número de horas 
   <li>Quanto pagou ao INSS.</li>
   <li>Quanto pagou ao sindicato.</li>
   <li>Qual o salário líquido do funcionário.</li>
+ 
+ 
+<img width="311" alt="image" src="https://github.com/thaisbreder/Aula08_lista002/assets/133882082/f0891fae-3f5e-4cb9-a776-3727ffe9b01a">
+
