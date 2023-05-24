@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22141763-c9ef-4a04-8eff-04607960a931" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +38,7 @@
     "onboarding.tips.debug.path": "C:/Users/thais.breder/Desktop/Atividades/Aula08/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.E06">
-    <configuration name="E02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E02" />
-      <module name="Aula08" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.E07">
     <configuration name="E03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E03" />
       <module name="Aula08" />
@@ -73,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E07" />
+      <module name="Aula08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E07" />
+        <item itemvalue="Application.E04" />
         <item itemvalue="Application.E06" />
         <item itemvalue="Application.E05" />
-        <item itemvalue="Application.E04" />
         <item itemvalue="Application.E03" />
-        <item itemvalue="Application.E02" />
       </list>
     </recent_temporary>
   </component>
